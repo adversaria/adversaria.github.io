@@ -10,11 +10,11 @@ border-spacing: 0px;
 .article-table tbody tr th {
 border: 1px #999999 solid;
 padding: 4px;
+text-align: center;
 }
 
 .article-table tbody tr td {
 border: 1px #999999 solid;
 padding: 4px;
-text-align: center;
 vertical-align: middle;
 }
