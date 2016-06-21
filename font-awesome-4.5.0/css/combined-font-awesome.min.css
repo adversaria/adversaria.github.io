@@ -18,7 +18,7 @@ border: 1px #999999 solid;
 padding: 4px;
 vertical-align: middle;
 }
-.board {border-collapse:collapse; border:0px;}
+.board {border-collapse:collapse; border:0px; width: 432px; height: 432px;}
 .board tr td {margin: 0px; padding:0px; text-align: center; vertical-align: middle;  line-height: 100%;}
 .w-square {background-color: WhiteSmoke; height: 42px; width: 42px; font-size: 38px; font-family: Arial;}
 .b-square {background-color: LightGray; height: 42px; width: 42px;font-size: 38px; font-family: Arial;}
