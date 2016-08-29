@@ -26,4 +26,4 @@ vertical-align: middle;
 .r-legend {background-color: DarkGray; height: 42px; width: 24px;}
 .c-legend {background-color: DarkGray; height: 24px; width: 24px;}
 
-h4 {font-weight: bold; color: #ff0000; padding-left: 10px; border-left: solid 2px;}
+h4 {font-weight: bold; padding: 0px 0px 0px 10px; border-left: solid 4px;}
